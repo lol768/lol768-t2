@@ -1,7 +1,7 @@
 lol768's ten.java submission
 ==============================
 
-[![ten.java](http://i.imgur.com/c2y4evp.png)](https://tenjava.com/)
+[![ten.java](https://cdn.mediacru.sh/OQaDxhLx8UOs.svg)](https://tenjava.com/)
 
 This is a submission for the 2014 ten.java contest.
 
